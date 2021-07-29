@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="player.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="guy Idle0000" x="0" y="0" width="217" height="397" frameX="-13" frameY="-2" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0001" x="0" y="0" width="217" height="397" frameX="-13" frameY="-2" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0002" x="0" y="0" width="217" height="397" frameX="-13" frameY="-2" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0003" x="227" y="0" width="217" height="396" frameX="-11" frameY="-3" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0004" x="227" y="0" width="217" height="396" frameX="-11" frameY="-3" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0005" x="227" y="0" width="217" height="396" frameX="-11" frameY="-3" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0006" x="454" y="0" width="215" height="399" frameX="-1" frameY="0" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0007" x="454" y="0" width="215" height="399" frameX="-1" frameY="0" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0008" x="454" y="0" width="215" height="399" frameX="-1" frameY="0" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0009" x="679" y="0" width="216" height="398" frameX="0" frameY="-1" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0010" x="679" y="0" width="216" height="398" frameX="0" frameY="-1" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0011" x="679" y="0" width="216" height="398" frameX="0" frameY="-1" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0012" x="679" y="0" width="216" height="398" frameX="0" frameY="-1" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0013" x="679" y="0" width="216" height="398" frameX="0" frameY="-1" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Idle0014" x="679" y="0" width="216" height="398" frameX="0" frameY="-1" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy Walk0000" x="905" y="0" width="215" height="392" frameX="0" frameY="-2" frameWidth="230" frameHeight="396"/>
+	<SubTexture name="guy Walk0001" x="905" y="0" width="215" height="392" frameX="0" frameY="-2" frameWidth="230" frameHeight="396"/>
+	<SubTexture name="guy Walk0002" x="1130" y="0" width="216" height="394" frameX="-1" frameY="-1" frameWidth="230" frameHeight="396"/>
+	<SubTexture name="guy Walk0003" x="1130" y="0" width="216" height="394" frameX="-1" frameY="-1" frameWidth="230" frameHeight="396"/>
+	<SubTexture name="guy Walk0004" x="1356" y="0" width="217" height="396" frameX="-11" frameY="0" frameWidth="230" frameHeight="396"/>
+	<SubTexture name="guy Walk0005" x="1356" y="0" width="217" height="396" frameX="-11" frameY="0" frameWidth="230" frameHeight="396"/>
+	<SubTexture name="guy Walk0006" x="1583" y="0" width="217" height="384" frameX="-13" frameY="-12" frameWidth="230" frameHeight="396"/>
+	<SubTexture name="guy Walk0007" x="1583" y="0" width="217" height="384" frameX="-13" frameY="-12" frameWidth="230" frameHeight="396"/>
+	<SubTexture name="guy Walk0008" x="1130" y="0" width="216" height="394" frameX="-1" frameY="-1" frameWidth="230" frameHeight="396"/>
+	<SubTexture name="guy Walk0009" x="1130" y="0" width="216" height="394" frameX="-1" frameY="-1" frameWidth="230" frameHeight="396"/>
+	<SubTexture name="guy Walk0010" x="905" y="0" width="215" height="392" frameX="0" frameY="-2" frameWidth="230" frameHeight="396"/>
+	<SubTexture name="guy Walk0011" x="905" y="0" width="215" height="392" frameX="0" frameY="-2" frameWidth="230" frameHeight="396"/>
+	<SubTexture name="guy YOLO0000" x="679" y="0" width="216" height="398" frameX="0" frameY="-3" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy YOLO0001" x="679" y="0" width="216" height="398" frameX="0" frameY="-3" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy YOLO0002" x="1810" y="0" width="215" height="398" frameX="-2" frameY="-3" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO0003" x="1810" y="0" width="215" height="398" frameX="-2" frameY="-3" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO0004" x="0" y="409" width="217" height="401" frameX="-1" frameY="0" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO0005" x="0" y="409" width="217" height="401" frameX="-1" frameY="0" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO0006" x="227" y="409" width="217" height="400" frameX="0" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO0007" x="227" y="409" width="217" height="400" frameX="0" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO0008" x="227" y="409" width="217" height="400" frameX="0" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO0009" x="227" y="409" width="217" height="400" frameX="0" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO0010" x="227" y="409" width="217" height="400" frameX="0" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO0011" x="227" y="409" width="217" height="400" frameX="0" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO0012" x="227" y="409" width="217" height="400" frameX="0" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO0013" x="227" y="409" width="217" height="400" frameX="0" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO0014" x="227" y="409" width="217" height="400" frameX="0" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0000" x="679" y="0" width="216" height="398" frameX="-17" frameY="-3" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy YOLO Bomb0001" x="679" y="0" width="216" height="398" frameX="-17" frameY="-3" frameWidth="230" frameHeight="399"/>
+	<SubTexture name="guy YOLO Bomb0002" x="1810" y="0" width="215" height="398" frameX="-19" frameY="-3" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0003" x="1810" y="0" width="215" height="398" frameX="-19" frameY="-3" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0004" x="0" y="409" width="217" height="401" frameX="-18" frameY="0" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0005" x="0" y="409" width="217" height="401" frameX="-18" frameY="0" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0006" x="227" y="409" width="217" height="400" frameX="-17" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0007" x="227" y="409" width="217" height="400" frameX="-17" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0008" x="227" y="409" width="217" height="400" frameX="-17" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0009" x="227" y="409" width="217" height="400" frameX="-17" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0010" x="227" y="409" width="217" height="400" frameX="-17" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0011" x="227" y="409" width="217" height="400" frameX="-17" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0012" x="227" y="409" width="217" height="400" frameX="-17" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0013" x="227" y="409" width="217" height="400" frameX="-17" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0014" x="227" y="409" width="217" height="400" frameX="-17" frameY="-1" frameWidth="218" frameHeight="401"/>
+	<SubTexture name="guy YOLO Bomb0015" x="454" y="409" width="233" height="394" frameX="0" frameY="-3" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0016" x="454" y="409" width="233" height="394" frameX="0" frameY="-3" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0017" x="697" y="409" width="228" height="394" frameX="-2" frameY="-3" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0018" x="697" y="409" width="228" height="394" frameX="-2" frameY="-3" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0019" x="697" y="409" width="228" height="394" frameX="-2" frameY="-3" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0020" x="697" y="409" width="228" height="394" frameX="-2" frameY="-3" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0021" x="935" y="409" width="216" height="385" frameX="-18" frameY="-10" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0022" x="935" y="409" width="216" height="385" frameX="-18" frameY="-10" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0023" x="1161" y="409" width="299" height="404" frameX="-52" frameY="-4" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0024" x="1470" y="409" width="422" height="404" frameX="-52" frameY="-4" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0025" x="0" y="823" width="532" height="404" frameX="-52" frameY="-4" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0026" x="542" y="823" width="663" height="404" frameX="-52" frameY="-4" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0027" x="1215" y="823" width="657" height="397" frameX="-58" frameY="-8" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0028" x="0" y="1237" width="210" height="397" frameX="-58" frameY="-8" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0029" x="220" y="1237" width="204" height="387" frameX="-58" frameY="-11" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0030" x="220" y="1237" width="204" height="387" frameX="-58" frameY="-11" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0031" x="220" y="1237" width="204" height="387" frameX="-58" frameY="-11" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0032" x="220" y="1237" width="204" height="387" frameX="-58" frameY="-11" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0033" x="220" y="1237" width="204" height="387" frameX="-58" frameY="-11" frameWidth="715" frameHeight="408"/>
+	<SubTexture name="guy YOLO Bomb0034" x="220" y="1237" width="204" height="387" frameX="-58" frameY="-11" frameWidth="715" frameHeight="408"/>
+</TextureAtlas>

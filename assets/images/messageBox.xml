@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="messageBox.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="message box0000" x="0" y="0" width="1024" height="256"/>
+	<SubTexture name="message box appear0000" x="0" y="266" width="1024" height="256"/>
+	<SubTexture name="message box appear0001" x="0" y="532" width="1024" height="256"/>
+	<SubTexture name="message box appear0002" x="0" y="798" width="1024" height="256"/>
+	<SubTexture name="message box appear0003" x="0" y="1064" width="1024" height="256"/>
+	<SubTexture name="message box appear0004" x="0" y="1330" width="1024" height="256"/>
+	<SubTexture name="message box appear0005" x="0" y="1596" width="1024" height="256"/>
+	<SubTexture name="message box appear0006" x="0" y="1862" width="1024" height="256"/>
+	<SubTexture name="message box appear0007" x="0" y="2128" width="1024" height="256"/>
+	<SubTexture name="message box appear0008" x="0" y="2394" width="1024" height="256"/>
+	<SubTexture name="message box appear0009" x="0" y="0" width="1024" height="256"/>
+</TextureAtlas>

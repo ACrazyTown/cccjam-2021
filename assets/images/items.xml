@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="items.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bomb Item Highlighted0000" x="0" y="281" width="252" height="244" frameX="0" frameY="0" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Icon0000" x="0" y="0" width="252" height="244"/>
+	<SubTexture name="bomb Item Pressed0000" x="262" y="0" width="261" height="253" frameX="-10" frameY="-9" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Pressed0001" x="262" y="0" width="261" height="253" frameX="-10" frameY="-9" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Pressed0002" x="533" y="0" width="280" height="271"/>
+	<SubTexture name="bomb Item Pressed0003" x="533" y="0" width="280" height="271"/>
+	<SubTexture name="bomb Item Pressed0004" x="0" y="281" width="252" height="244" frameX="-12" frameY="-12" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Pressed0005" x="0" y="281" width="252" height="244" frameX="-12" frameY="-12" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Pressed0006" x="262" y="281" width="251" height="243" frameX="-12" frameY="-12" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Pressed0007" x="262" y="281" width="251" height="243" frameX="-12" frameY="-12" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Pressed0008" x="262" y="281" width="251" height="243" frameX="-12" frameY="-12" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Pressed0009" x="262" y="281" width="251" height="243" frameX="-12" frameY="-12" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Pressed0010" x="262" y="281" width="251" height="243" frameX="-12" frameY="-12" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Pressed0011" x="262" y="281" width="251" height="243" frameX="-12" frameY="-12" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Pressed0012" x="262" y="281" width="251" height="243" frameX="-12" frameY="-12" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Pressed0013" x="262" y="281" width="251" height="243" frameX="-12" frameY="-12" frameWidth="280" frameHeight="271"/>
+	<SubTexture name="bomb Item Pressed0014" x="262" y="281" width="251" height="243" frameX="-12" frameY="-12" frameWidth="280" frameHeight="271"/>
+</TextureAtlas>
