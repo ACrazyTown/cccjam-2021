@@ -1,4 +1,4 @@
-# job failed successfully
+# job failed successfully (JAM PROTOTYPE ver.)
 
 a game i made for the ccc jam 2021 game thing
 it's a **PROTOTYPE**, i wouldnt even consider it a game but here it is
